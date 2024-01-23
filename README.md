@@ -20,7 +20,7 @@ Provide an overview of the project, including its purpose, features, and main fu
 
 ```bash
 # Clone the project
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/LinlinLiang0/MyPortfolio.git
 
 # Navigate to the project directory
 cd MyPorfolioProject
@@ -30,3 +30,4 @@ npm install
 
 # Run the project
 npm start
+```
