@@ -18,16 +18,16 @@ Provide an overview of the project, including its purpose, features, and main fu
 
 ## Installation and Run
 
-```bash
-# Clone the project
-git clone https://github.com/LinlinLiang0/MyPortfolio.git
 
-# Navigate to the project directory
-cd MyPorfolioProject
+### Clone the project
+`git clone https://github.com/LinlinLiang0/MyPortfolio.git`
 
-# Install dependencies
-npm install
+### Navigate to the project directory
+`cd MyPorfolioProject`
 
-# Run the project
-npm start
-```
+### Install dependencies
+`npm install`
+
+### Run the project
+`npm start`
+
