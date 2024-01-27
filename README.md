@@ -23,7 +23,7 @@ Provide an overview of the project, including its purpose, features, and main fu
 `git clone https://github.com/LinlinLiang0/MyPortfolio.git`
 
 ### Navigate to the project directory
-`cd MyPorfolioProject`
+`cd MyPortfolioProject`
 
 ### Install dependencies
 `npm install`
